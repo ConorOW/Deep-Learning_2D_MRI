@@ -1,4 +1,4 @@
-# Science-Projects
+# Deep Learning classification tasks using 2D MRI data
 A series of workbooks and scripts detailing various science projects.
 
 The first notebook we have in here is the `Matplotlib Raincloud Plots.ipynb` which is a notebook showing some of the visualization methods we can use to display how the same variables appear at different sites in large international studies.
